@@ -32,7 +32,7 @@ return 0;
 ```
 # OUTPUT:
 
-<img width="1004" height="584" alt="image" src="https://github.com/user-attachments/assets/9a54264f-c77e-4966-a4c8-c2d27fe82288" />
+<img width="1506" height="488" alt="Screenshot 2026-02-20 152532" src="https://github.com/user-attachments/assets/e592a72d-b6fa-4714-8e23-1350dcbad244" />
 
 # RESULT:
 The implementation of pseudorandom number generation is executed successfully.
